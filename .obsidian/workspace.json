@@ -25,10 +25,14 @@
             "id": "895ae4719a7a8deb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "TagToGag/dnd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dnd"
             }
           }
         ],
@@ -178,17 +182,17 @@
   },
   "active": "895ae4719a7a8deb",
   "lastOpenFiles": [
+    "TagToGag/pro.md",
+    "ProrP/NumberFormatInfo.md",
+    "TagToGag/dnd.md",
     "ProrP/TryParse.md",
     "ProrP/Convert.md",
     "ProrP/double.md",
-    "ProrP/NumberFormatInfo.md",
     "ProrP/int.md",
     "ProrP/Типы данных.md",
-    "TagToGag/Pro.md",
     "TagToGag",
     "Imaga/Pasted image 20250227015017.png",
     "SlowSort",
-    "Без названия.md",
     "ProrP",
     "Imaga",
     "Imaga/Pasted image 20250227010541.png",

@@ -3,4 +3,4 @@
 
 ![[Pasted image 20250227015017.png]]
 
-[[Pro]]
+[[pro]]

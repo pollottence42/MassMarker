@@ -3,4 +3,4 @@ Convert.ToDouble (для [[double]])
 
 Но лучше [[TryParse]]
 
-[[Pro]]
+[[pro]]
