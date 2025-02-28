@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8056554cbc0d109b",
+        "id": "a3e847eb1a2029dd",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6dbc90ad89fec0",
+            "id": "f654a2ab6f4a86da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProrP/Convert.md",
+                "file": "Dno/Первая сессия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convert"
-            }
-          },
-          {
-            "id": "895ae4719a7a8deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TagToGag/dnd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dnd"
+              "title": "Первая сессия"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -177,25 +162,37 @@
       "canvas:Создать новый холст": true,
       "daily-notes:Сегодняшняя заметка": true,
       "templates:Вставить шаблон": true,
-      "command-palette:Открыть палитру команд": true
+      "command-palette:Открыть палитру команд": true,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "895ae4719a7a8deb",
+  "active": "f654a2ab6f4a86da",
   "lastOpenFiles": [
+    "Dno/Рабство.md",
+    "Dno/Сёстры океана.md",
+    "Dno/Русалка Беливия.md",
+    "Dno/Первая сессия.md",
+    "Dno/Принцы.md",
+    "Dno/Грунг Орло.md",
+    "Dno/Морское.md",
+    "ProrP/Тернарный оператор.md",
+    "TagToGag/dnd.md",
+    "Imaga/Pasted image 20250227010541.png",
+    "Imaga/Pasted image 20250227015017.png",
+    "Imaga/Pasted image 20250227225656.jpg",
+    "ProrP/Индекс.md",
+    "Dno",
+    "ProrP/double.md",
     "TagToGag/pro.md",
     "ProrP/NumberFormatInfo.md",
-    "TagToGag/dnd.md",
     "ProrP/TryParse.md",
     "ProrP/Convert.md",
-    "ProrP/double.md",
     "ProrP/int.md",
     "ProrP/Типы данных.md",
     "TagToGag",
-    "Imaga/Pasted image 20250227015017.png",
     "SlowSort",
     "ProrP",
     "Imaga",
-    "Imaga/Pasted image 20250227010541.png",
     "Pasted image 20250227010121.png",
     "создайте ссылку.md",
     "Добро пожаловать.md"
