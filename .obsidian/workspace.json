@@ -4,11 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbb2a97188a2589",
+        "id": "5ebac157ef05f310",
         "type": "tabs",
         "children": [
           {
-            "id": "e94bc8ed103872e5",
+            "id": "86ea74991c109ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Шаблоны/Игра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Игра"
+            }
+          },
+          {
+            "id": "33891bfa28a86388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Шаблоны/Игра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Игра"
+            }
+          },
+          {
+            "id": "a2020d3c3de1b5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Шаблоны/ПМ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ПМ"
+            }
+          },
+          {
+            "id": "564a63fb0d67407f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Шаблоны/Игра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Игра"
+            }
+          },
+          {
+            "id": "b56d7492b148fc17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TagToGag/spiders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spiders"
+            }
+          },
+          {
+            "id": "cfe71e9e833d30b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Шаблоны/ПМ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ПМ"
+            }
+          },
+          {
+            "id": "9be359e4ae98714b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +101,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,53 +262,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e94bc8ed103872e5",
+  "active": "9be359e4ae98714b",
   "lastOpenFiles": [
-    "Dno/Крестики нолики.md",
-    "Dno/Точка зрения.md",
-    "Dno/Пираты.md",
-    "Dno/Грунг Орло.md",
-    "Imaga/Pasted image 20250227010541.png",
-    "Jdroid/Base.md",
-    "DragonTribes/Excalidraw/Поле игрока.excalidraw.md",
-    "Prog/Тернарный оператор.md",
-    "Без названия.md",
-    "Prog/Лямбда.md",
-    "Prog/Длина многомерных массивов.md",
-    "Prog/Анонимный делегат.md",
-    "Py/import.md",
+    "Клан Абюзус/Гоблины на пауках.md",
+    "Клан Абюзус/Абюзус.md",
+    "_Шаблоны/Идея.md",
+    "Мойраститэ.md",
+    "Ваншоты/Точка зрения.md",
+    "Ваншоты/Крестики нолики.md",
+    "Ваншоты/Сумки.md",
+    "_Шаблоны/Игра.md",
+    "_Шаблоны/ПМ.md",
+    "_Шаблоны/Персонаж Игрока.md",
+    "Три кольца/Мурдос.md",
+    "Три кольца/Кольцо камня.md",
+    "Три кольца/Карабелла.md",
+    "Три кольца/Друид Лин.md",
+    "Три кольца/Динозавры.md",
+    "Морское/Пираты.md",
+    "Морское/Первая сессия Морского.md",
+    "Морское/Грунг Орло.md",
+    "Морское/Рабство.md",
+    "Шаблоны/Без названия.md",
+    "Клан Абюзус",
+    "Три кольца",
+    "Морское",
+    "Морское/Принцы.md",
+    "TagToGag/Морское.md",
+    "TagToGag/spiders.md",
+    "TagToGag/shabl.md",
     "TagToGag/python.md",
-    "Py/import 1.md",
-    "TagToGag/j.md",
+    "TagToGag/pro.md",
+    "_Шаблоны",
+    "Imaga/АБЮЗУС.png",
+    "Imaga/Pasted image 20250227010541.png",
     "Jdroid",
-    "Py/range.md",
-    "Py/for.md",
-    "Py/Dictionary.md",
-    "Dno/Слепой Сью.md",
-    "Dno/Кольцо камня.md",
-    "Dno/Карабелла.md",
-    "Dno/Динозавры.md",
-    "Dno/Друид Лин.md",
-    "TagToGag/Camp.md",
-    "Excalidraw/Drawing 2025-03-14 15.50.19.excalidraw.md",
     "Excalidraw",
-    "DragonTribes/Dragons/Кол or С/Белый.md",
     "Imaga/Pasted image 20250314154449.png",
     "DragonTribes/Folder",
     "DragonTribes/Excalidraw",
     "DragonTribes/Dragons/Кол or С",
     "DragonTribes/Dragons",
-    "DragonTribes",
-    "Новая папка",
-    "Py",
     "Imaga/Pasted image 20250311212934.png",
     "Imaga/Pasted image 20250311212916.png",
     "Imaga/Pasted image 20250311212902.png",
     "Imaga/Pasted image 20250311212839.png",
     "Imaga/Pasted image 20250311212806.png",
     "Imaga/Pasted image 20250311212731.png",
-    "Imaga/Pasted image 20250311212728.png",
-    "Imaga/Pasted image 20250311212712.png",
-    "Dno"
+    "Imaga/Pasted image 20250311212728.png"
   ]
 }
