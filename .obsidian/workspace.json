@@ -95,10 +95,14 @@
             "id": "9be359e4ae98714b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Dno/Заклинания.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Заклинания"
             }
           }
         ],
@@ -194,22 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog/Длина многомерных массивов.md",
+                "file": "Dno/Заклинания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Длина многомерных массивов"
-            }
-          },
-          {
-            "id": "804a6183664918f9",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "title": "Исходящие ссылки из Заклинания"
             }
           },
           {
@@ -241,9 +235,19 @@
               "icon": "lucide-tags",
               "title": "Теги"
             }
+          },
+          {
+            "id": "093e865740ad3c6f",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -262,15 +266,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9be359e4ae98714b",
+  "active": "093e865740ad3c6f",
   "lastOpenFiles": [
+    "Dno/Бестиарий.md",
+    "Dno/Заклинания.md",
+    "_Шаблоны/Cайт.md",
+    "Без названия.md",
     "Клан Абюзус/Гоблины на пауках.md",
     "Клан Абюзус/Абюзус.md",
     "_Шаблоны/Идея.md",
     "Мойраститэ.md",
-    "Ваншоты/Точка зрения.md",
-    "Ваншоты/Крестики нолики.md",
-    "Ваншоты/Сумки.md",
+    "Dno/Точка зрения.md",
+    "Dno/Крестики нолики.md",
+    "Dno/Сумки.md",
     "_Шаблоны/Игра.md",
     "_Шаблоны/ПМ.md",
     "_Шаблоны/Персонаж Игрока.md",
@@ -289,10 +297,6 @@
     "Морское",
     "Морское/Принцы.md",
     "TagToGag/Морское.md",
-    "TagToGag/spiders.md",
-    "TagToGag/shabl.md",
-    "TagToGag/python.md",
-    "TagToGag/pro.md",
     "_Шаблоны",
     "Imaga/АБЮЗУС.png",
     "Imaga/Pasted image 20250227010541.png",
