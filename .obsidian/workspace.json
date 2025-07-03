@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02df072ef96310f5",
+            "id": "3b1ff2f87e2556a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dno/Проверка.md",
+                "file": "Три кольца/_Три кольца 1 игра.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Проверка"
+              "title": "_Три кольца 1 игра"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "05cf560246525c2b",
         "type": "tabs",
+        "dimension": 60.98901098901099,
         "children": [
           {
             "id": "b2f427a15ce0d2c5",
@@ -147,32 +148,33 @@
             }
           },
           {
-            "id": "7a0536204ef78a05",
+            "id": "ae019042c35868a3",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_fb5b8bab3b1b",
+                "calendar": "ID_1838780bd92a",
                 "ephemeral": {
                   "viewing": {
-                    "day": 29,
-                    "month": 6,
-                    "year": 4100
+                    "day": 1,
+                    "month": 8,
+                    "year": 4036
                   },
-                  "viewState": 2,
+                  "viewState": 1,
                   "displaying": {
                     "day": 28,
-                    "month": 6,
-                    "year": 4100
+                    "month": 8,
+                    "year": 4036
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
                   "displayMoons": true,
-                  "displayWeather": true
+                  "displayWeather": true,
+                  "location": "NONE"
                 },
-                "id": "ID_7ae9eb1868aa",
-                "child": "ID_aa29cb68faf8"
+                "id": "ID_39686a5b0bda",
+                "child": "ID_8af8bbd818f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -182,38 +184,19 @@
         "currentTab": 4
       },
       {
-        "id": "641b842b7cf49b1e",
+        "id": "5d728c0bbe4242f7",
         "type": "tabs",
+        "dimension": 39.010989010989015,
         "children": [
           {
-            "id": "23484558ac36c1ae",
+            "id": "9516394314b0219f",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_fb5b8bab3b1b",
-                "id": "ID_49a87bdbb91a",
-                "parent": "ID_7b1afa0859a9"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7eeaa6068bb21b8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ebc20ca398165c51",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_fb5b8bab3b1b",
-                "id": "ID_aa29cb68faf8",
-                "parent": "ID_7ae9eb1868aa"
+                "calendar": "ID_1838780bd92a",
+                "id": "ID_8af8bbd818f8",
+                "parent": "ID_39686a5b0bda"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -240,38 +223,39 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7a0536204ef78a05",
+  "active": "3b1ff2f87e2556a5",
   "lastOpenFiles": [
-    "Dno/Сумки.md",
-    "Dno/Проверка.md",
-    "Dno/Заклинания.md",
-    "_Шаблоны/Игра.md",
+    "Сеттинг/Мойраститэ.md",
+    "Сеттинг/Зонн.md",
+    "Сеттинг/Абюзус.md",
+    "Три кольца/Эннэя.md",
+    "Три кольца/Карабелла.md",
+    "Три кольца/Каллиста.md",
+    "Три кольца/_Три кольца 1 игра.md",
+    "Сеттинг/Неовин.md",
+    "Сеттинг/Элион.md",
+    "TagToGag/setting.md",
+    "Без названия.md",
+    "Сеттинг",
+    "TagToGag/location.md",
+    "_Шаблоны/Локация.md",
     "_Шаблоны/Персонаж Игрока.md",
+    "_Шаблоны/Игра.md",
+    "Три кольца/Мурдос.md",
+    "Три кольца/Габриэлла.md",
+    "Три кольца/Фейн.md",
+    "Три кольца/Динозавры.md",
+    "Три кольца/Слепой Сью.md",
+    "_Шаблоны/Идея.md",
+    "Клан Абюзус/Гоблины на пауках.md",
     "_Шаблоны/ПМ.md",
     "_Шаблоны/Cайт.md",
-    "_Шаблоны/Идея.md",
     "_Шаблоны/Карта.md",
-    "Карты/Лотта целиком (физическая карта).md",
-    "Dno/Музыка.md",
+    "_Шаблоны/Дата.md",
     "Excalidraw",
-    "Клан Абюзус/Мойраститэ.md",
-    "TagToGag/spiders.md",
     "Imaga/АБЮЗУС.png",
     "Imaga/Lotta_gex.png",
-    "Dno/Бестиарий.md",
     "Карты",
-    "Клан Абюзус/Абюзус.md",
-    "Без названия.md",
-    "Клан Абюзус/Гоблины на пауках.md",
-    "Dno/Точка зрения.md",
-    "Dno/Крестики нолики.md",
-    "Три кольца/Мурдос.md",
-    "Три кольца/Кольцо камня.md",
-    "Три кольца/Карабелла.md",
-    "Три кольца/Друид Лин.md",
-    "Три кольца/Динозавры.md",
-    "Морское/Пираты.md",
-    "Морское/Первая сессия Морского.md",
     "Клан Абюзус",
     "Три кольца",
     "Морское",
@@ -281,7 +265,6 @@
     "Imaga/Pasted image 20250314154449.png",
     "DragonTribes/Folder",
     "DragonTribes/Excalidraw",
-    "DragonTribes/Dragons/Кол or С",
     "Imaga/Pasted image 20250311212934.png",
     "Imaga/Pasted image 20250311212916.png",
     "Imaga/Pasted image 20250311212902.png",

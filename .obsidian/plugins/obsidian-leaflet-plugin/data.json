@@ -3,7 +3,7 @@
     {
       "id": "Lotta_gex",
       "locked": false,
-      "lastAccessed": 1751554796275,
+      "lastAccessed": 1751567979239,
       "markers": [
         {
           "id": "ID_ea7a8a2879fa",
@@ -118,7 +118,10 @@
           "layer": "%5B%5BLotta_gex.png%7CLotta_gex%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.8081683168316832,
+            -1.0347404857673268
+          ],
           "description": null,
           "minZoom": 1,
           "maxZoom": 14,

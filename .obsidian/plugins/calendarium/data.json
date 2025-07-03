@@ -2,8 +2,8 @@
   "autoParse": false,
   "calendars": [
     {
-      "name": "Gregorian Calendar",
-      "description": "A calendar for the real world.",
+      "name": "Лотта",
+      "description": "Основной календарь континента,, распространяемый из Элиона",
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "inline-events",
@@ -12,48 +12,55 @@
         "displayDayNumber": false,
         "incrementDay": true,
         "displayMoons": true,
-        "firstWeekDay": 1,
+        "firstWeekDay": 0,
         "overflow": true,
         "weekdays": [
           {
             "type": "day",
-            "name": "Sunday",
-            "id": "ID_19ea684b4a08"
+            "name": "Понедельник",
+            "id": "ID_2928b90ab949",
+            "abbreviation": "ПН"
           },
           {
             "type": "day",
-            "name": "Monday",
-            "id": "ID_2928b90ab949"
+            "name": "Вторник",
+            "id": "ID_db2b7abb1979",
+            "abbreviation": "ВТ"
           },
           {
             "type": "day",
-            "name": "Tuesday",
-            "id": "ID_0ad9a8f9e95b"
+            "name": "Среда",
+            "id": "ID_195a4b290bc9",
+            "abbreviation": "СР"
           },
           {
             "type": "day",
-            "name": "Wednesday",
-            "id": "ID_195a4b290bc9"
+            "name": "Четверг",
+            "id": "ID_abe8c89b0999",
+            "abbreviation": "ЧТ"
           },
           {
             "type": "day",
-            "name": "Thursday",
-            "id": "ID_abe8c89b0999"
+            "name": "Пятница",
+            "id": "ID_2b5b8a79fa4a",
+            "abbreviation": "ПТ"
           },
           {
             "type": "day",
-            "name": "Friday",
-            "id": "ID_2b5b8a79fa4a"
+            "name": "Суббота",
+            "id": "ID_1a78cb79c8cb",
+            "abbreviation": "СБ"
           },
           {
             "type": "day",
-            "name": "Saturday",
-            "id": "ID_1a78cb79c8cb"
+            "name": "Воскресенье",
+            "id": "ID_19ea684b4a08",
+            "abbreviation": "ВС"
           }
         ],
         "months": [
           {
-            "name": "January",
+            "name": "Январь",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -61,7 +68,7 @@
             "id": "ID_e9997a780b3a"
           },
           {
-            "name": "February",
+            "name": "Февраль",
             "type": "month",
             "length": 28,
             "interval": 1,
@@ -69,7 +76,7 @@
             "id": "ID_b8c9ebeb0b89"
           },
           {
-            "name": "March",
+            "name": "Март",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -77,7 +84,7 @@
             "id": "ID_b83bda2b9be8"
           },
           {
-            "name": "April",
+            "name": "Апрель",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -85,7 +92,7 @@
             "id": "ID_29baea7b28ab"
           },
           {
-            "name": "May",
+            "name": "Май",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -93,7 +100,7 @@
             "id": "ID_6a3899fad909"
           },
           {
-            "name": "June",
+            "name": "Июнь",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -101,7 +108,7 @@
             "id": "ID_384aeb1afa8a"
           },
           {
-            "name": "July",
+            "name": "Июль",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -109,7 +116,7 @@
             "id": "ID_48b8cba87b8a"
           },
           {
-            "name": "August",
+            "name": "Август",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -117,7 +124,7 @@
             "id": "ID_fa0b1a6bab8a"
           },
           {
-            "name": "September",
+            "name": "Сентябрь",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -125,7 +132,7 @@
             "id": "ID_da880b8af849"
           },
           {
-            "name": "October",
+            "name": "Октябрь",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -133,7 +140,7 @@
             "id": "ID_babba8186968"
           },
           {
-            "name": "November",
+            "name": "Ноябрь",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -141,7 +148,7 @@
             "id": "ID_da582bfaf9b9"
           },
           {
-            "name": "December",
+            "name": "Декабрь",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -151,11 +158,11 @@
         ],
         "moons": [
           {
-            "name": "Moon",
+            "name": "Луна",
             "cycle": 29.530588853,
             "offset": 9.24953,
-            "faceColor": "#ffffff",
-            "shadowColor": "#000000",
+            "faceColor": "#d9f359",
+            "shadowColor": "#405b77",
             "id": "ID_a9ab186b1819"
           }
         ],
@@ -186,38 +193,7 @@
             "id": "ID_b91ad86a887a"
           }
         ],
-        "eras": [
-          {
-            "name": "Before Christ",
-            "format": "{{era_name}}",
-            "id": "ID_9a2978c92baa",
-            "endsYear": false,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": true,
-            "date": {
-              "year": 1,
-              "month": 0,
-              "day": 1
-            }
-          },
-          {
-            "name": "Anno Domini",
-            "format": "{{era_name}}",
-            "date": {
-              "year": 1,
-              "month": 0,
-              "day": 1
-            },
-            "id": "ID_a8db38899a2b",
-            "endsYear": false,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": false
-          }
-        ],
+        "eras": [],
         "offset": 0,
         "padDays": 2,
         "padMonths": 2
@@ -226,8 +202,8 @@
         "seasons": [
           {
             "id": "STANDARD_WINTER",
-            "name": "Winter",
-            "color": "#ADD8E6",
+            "name": "Зима",
+            "color": "#14c4ff",
             "kind": "Winter",
             "type": "Periodic",
             "duration": 91.310625,
@@ -236,9 +212,9 @@
           },
           {
             "id": "STANDARD_SPRING",
-            "name": "Spring",
+            "name": "Весна",
             "kind": "Spring",
-            "color": "#90EE90",
+            "color": "#fff705",
             "type": "Periodic",
             "duration": 91.310625,
             "weatherOffset": 56,
@@ -246,9 +222,9 @@
           },
           {
             "id": "STANDARD_SUMMER",
-            "name": "Summer",
+            "name": "Лето",
             "kind": "Summer",
-            "color": "#FFFF00",
+            "color": "#00c717",
             "type": "Periodic",
             "duration": 91.310625,
             "weatherOffset": 56,
@@ -256,9 +232,9 @@
           },
           {
             "id": "STANDARD_AUTUMN",
-            "name": "Autumn",
+            "name": "Осень",
             "kind": "Autumn",
-            "color": "#DAA520",
+            "color": "#f9b50b",
             "type": "Periodic",
             "duration": 91.310625,
             "weatherOffset": 56,
@@ -270,299 +246,242 @@
         "displayColors": true,
         "interpolateColors": true,
         "weather": {
-          "enabled": false,
-          "seed": 1,
-          "tempUnits": "Imperial",
+          "enabled": true,
+          "seed": 1145848638,
+          "tempUnits": "Metric",
           "windUnits": "Metric",
           "primaryWindDirection": "E"
         }
       },
       "locations": {
-        "locations": []
+        "locations": [
+          {
+            "name": "Лотта",
+            "id": "ID_6ba85a5b3a09",
+            "seasons": {
+              "STANDARD_WINTER": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "STANDARD_SPRING": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "STANDARD_SUMMER": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "STANDARD_AUTUMN": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          }
+        ],
+        "defaultLocation": "NONE"
       },
       "current": {
-        "day": 28,
-        "month": 6,
-        "year": 4100
+        "day": 1,
+        "month": 8,
+        "year": 4036
       },
       "events": [
         {
-          "name": "Summer Solstice",
-          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
-          "id": "824599",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Winter Solstice",
-          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
-          "id": "824600",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Spring Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824601",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Autumn Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824602",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Christmas",
-          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
-          "id": "824603",
-          "note": null,
-          "date": {
-            "day": 25,
-            "month": 11,
-            "year": [
-              null,
-              null
-            ]
-          },
-          "type": "Recurring",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Paschal Full Moon",
-          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
-          "id": "824604",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter",
-          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
-          "id": "824605",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter Monday",
-          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
-          "id": "824606",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Good Friday",
-          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
-          "id": "824607",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Pentecost",
-          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
-          "id": "824608",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "New Year's Day",
-          "description": "New Year's Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+          "name": "День нового года",
+          "description": "",
           "id": "824609",
           "note": null,
           "date": {
             "day": 1,
             "year": [
-              null,
-              null
+              0,
+              10000
             ],
             "month": 0
           },
           "type": "Recurring",
-          "category": "secular-holidays",
+          "category": "natural-events",
           "sort": {
             "timestamp": 5e-324,
             "order": ""
           }
         },
         {
-          "name": "Valentine's Day",
-          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+          "name": "Опьис Он",
+          "description": "",
           "id": "824610",
           "note": null,
           "date": {
             "day": 14,
             "year": [
-              null,
-              null
+              0,
+              10000
             ],
             "month": 1
           },
           "type": "Recurring",
-          "category": "secular-holidays",
+          "category": "ID_2b891a1b9a1b",
           "sort": {
             "timestamp": 5e-324,
             "order": ""
           }
         },
         {
-          "name": "Halloween",
-          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+          "name": "Ночь Тени",
+          "description": "",
           "id": "824611",
           "note": null,
           "date": {
             "day": 31,
             "year": [
-              null,
-              null
+              0,
+              10000
             ],
             "month": 9
           },
           "type": "Recurring",
-          "category": "secular-holidays",
+          "category": "ID_2b891a1b9a1b",
           "sort": {
             "timestamp": 5e-324,
             "order": ""
           }
         },
         {
-          "name": "Introduction of the Gregorian Calendar",
-          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
-          "id": "824614",
-          "note": null,
-          "type": "Date",
+          "name": "Летнее солнцестояние",
+          "description": null,
           "date": {
-            "day": 15,
-            "year": 1582,
-            "month": 9
+            "month": 5,
+            "day": 21,
+            "year": [
+              0,
+              10000
+            ]
           },
-          "category": "historical-events",
+          "id": "ID_6bcbb8aa6bb9",
+          "note": null,
+          "category": "natural-events",
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Зимнее лунодержавие",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 21,
+            "year": [
+              0,
+              10000
+            ]
+          },
+          "id": "ID_da79dba8ab3a",
+          "note": null,
+          "category": "natural-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Весеннее равноденствие",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 20,
+            "year": [
+              0,
+              10000
+            ]
+          },
+          "id": "ID_c9ab3adb4b3a",
+          "note": null,
+          "category": "natural-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Осеннее равноденствие",
+          "description": null,
+          "date": {
+            "month": 8,
+            "day": 22,
+            "year": [
+              0,
+              10000
+            ]
+          },
+          "id": "ID_680998293939",
+          "note": null,
+          "category": "natural-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "День Дня",
+          "description": null,
+          "date": {
+            "month": 3,
+            "day": 31,
+            "year": [
+              0,
+              10000
+            ]
+          },
+          "id": "ID_dbbb594a4a5a",
+          "note": null,
+          "category": "ID_2b891a1b9a1b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
         }
       ],
-      "id": "ID_fb5b8bab3b1b",
+      "id": "ID_1838780bd92a",
       "categories": [
         {
-          "name": "Natural Events",
+          "name": "Дни Природы",
           "id": "natural-events",
-          "color": "#2E7D32"
+          "color": "#41d848"
         },
         {
-          "name": "Christian Holidays",
-          "id": "christian-holidays",
-          "color": "#9b2c2c"
+          "id": "ID_2b891a1b9a1b",
+          "color": "#bc26f2",
+          "name": "Дни Божеств"
         },
         {
-          "name": "Secular Holidays",
-          "id": "secular-holidays",
-          "color": "#0D47A1"
+          "id": "ID_49c829ba781b",
+          "color": "#e22222",
+          "name": "Дни Событий"
         },
         {
-          "name": "Historical Events",
-          "id": "historical-events",
-          "color": "#455A64"
+          "id": "ID_ba0a0ab9aa3b",
+          "color": "#c3ff00",
+          "name": "Три кольца"
         },
         {
-          "name": "Miscellaneous Events",
-          "id": "miscellaneous-events",
-          "color": "#0288D1"
+          "id": "ID_18a8aafa4908",
+          "color": "#000000",
+          "name": "Клан Абюзус"
+        },
+        {
+          "id": "ID_4b28ca3a6b19",
+          "color": "#1430ff",
+          "name": "Ваншоты"
         }
       ],
       "dateFormat": "D-M-Y"
@@ -571,8 +490,8 @@
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_fb5b8bab3b1b",
-  "eventPreview": false,
+  "defaultCalendar": "ID_1838780bd92a",
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
