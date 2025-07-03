@@ -3,5 +3,8 @@
   "code-styler",
   "obsidian-excalidraw-plugin",
   "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "obsidian-leaflet-plugin",
+  "obsidian-meta-bind-plugin",
+  "calendarium"
 ]

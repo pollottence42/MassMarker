@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5ebac157ef05f310",
+        "id": "f82e9f4c4408bb29",
         "type": "tabs",
         "children": [
           {
-            "id": "86ea74991c109ba1",
+            "id": "02df072ef96310f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Шаблоны/Игра.md",
+                "file": "_Шаблоны/Персонаж Игрока.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Игра"
-            }
-          },
-          {
-            "id": "33891bfa28a86388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Шаблоны/Игра.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Игра"
-            }
-          },
-          {
-            "id": "a2020d3c3de1b5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Шаблоны/ПМ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ПМ"
-            }
-          },
-          {
-            "id": "564a63fb0d67407f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Шаблоны/Игра.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Игра"
-            }
-          },
-          {
-            "id": "b56d7492b148fc17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TagToGag/spiders.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "spiders"
-            }
-          },
-          {
-            "id": "cfe71e9e833d30b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Шаблоны/ПМ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ПМ"
-            }
-          },
-          {
-            "id": "9be359e4ae98714b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dno/Заклинания.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Заклинания"
+              "title": "Персонаж Игрока"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,6 +87,7 @@
       {
         "id": "05cf560246525c2b",
         "type": "tabs",
+        "dimension": 58.92857142857143,
         "children": [
           {
             "id": "b2f427a15ce0d2c5",
@@ -179,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog/Длина многомерных массивов.md",
+                "file": "_Шаблоны/Персонаж Игрока.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Длина многомерных массивов"
+              "title": "Обратные ссылки для Персонаж Игрока"
             }
           },
           {
@@ -198,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dno/Заклинания.md",
+                "file": "_Шаблоны/Персонаж Игрока.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Заклинания"
+              "title": "Исходящие ссылки из Персонаж Игрока"
             }
           },
           {
@@ -212,32 +128,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog/Тернарный оператор.md",
+                "file": "_Шаблоны/Персонаж Игрока.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Тернарный оператор"
+              "title": "Структура Персонаж Игрока"
             }
           },
           {
-            "id": "5ad9d8c8035ad767",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
-            "id": "093e865740ad3c6f",
+            "id": "d87a52dbf0e50c1c",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -245,13 +146,67 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "a20843f274542918",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b8f9cb7ac9db",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 14,
+                    "month": 1,
+                    "year": 5461
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 5461
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_b93928f8bb29"
+                },
+                "id": "ID_7b1afa0859a9",
+                "child": "ID_49a87bdbb91a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "641b842b7cf49b1e",
+        "type": "tabs",
+        "dimension": 41.07142857142857,
+        "children": [
+          {
+            "id": "23484558ac36c1ae",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_b8f9cb7ac9db",
+                "id": "ID_49a87bdbb91a",
+                "parent": "ID_7b1afa0859a9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,27 +216,37 @@
       "daily-notes:Сегодняшняя заметка": true,
       "templates:Вставить шаблон": true,
       "command-palette:Открыть палитру команд": true,
-      "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": true,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "remotely-save:Remotely Save": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "calendarium:Open Calendarium": true
     }
   },
-  "active": "093e865740ad3c6f",
+  "active": "a20843f274542918",
   "lastOpenFiles": [
-    "Dno/Бестиарий.md",
-    "Dno/Заклинания.md",
+    "_Шаблоны/ПМ.md",
     "_Шаблоны/Cайт.md",
+    "_Шаблоны/Персонаж Игрока.md",
+    "_Шаблоны/Идея.md",
+    "_Шаблоны/Игра.md",
+    "_Шаблоны/Карта.md",
+    "Карты/Лотта целиком (физическая карта).md",
+    "Dno/Музыка.md",
+    "Excalidraw",
+    "Клан Абюзус/Мойраститэ.md",
+    "TagToGag/spiders.md",
+    "Imaga/АБЮЗУС.png",
+    "Imaga/Lotta_gex.png",
+    "Dno/Бестиарий.md",
+    "Карты",
+    "Клан Абюзус/Абюзус.md",
+    "Dno/Заклинания.md",
     "Без названия.md",
     "Клан Абюзус/Гоблины на пауках.md",
-    "Клан Абюзус/Абюзус.md",
-    "_Шаблоны/Идея.md",
-    "Мойраститэ.md",
     "Dno/Точка зрения.md",
     "Dno/Крестики нолики.md",
     "Dno/Сумки.md",
-    "_Шаблоны/Игра.md",
-    "_Шаблоны/ПМ.md",
-    "_Шаблоны/Персонаж Игрока.md",
     "Три кольца/Мурдос.md",
     "Три кольца/Кольцо камня.md",
     "Три кольца/Карабелла.md",
@@ -289,30 +254,21 @@
     "Три кольца/Динозавры.md",
     "Морское/Пираты.md",
     "Морское/Первая сессия Морского.md",
-    "Морское/Грунг Орло.md",
-    "Морское/Рабство.md",
-    "Шаблоны/Без названия.md",
     "Клан Абюзус",
     "Три кольца",
     "Морское",
-    "Морское/Принцы.md",
-    "TagToGag/Морское.md",
     "_Шаблоны",
-    "Imaga/АБЮЗУС.png",
     "Imaga/Pasted image 20250227010541.png",
     "Jdroid",
-    "Excalidraw",
     "Imaga/Pasted image 20250314154449.png",
     "DragonTribes/Folder",
     "DragonTribes/Excalidraw",
     "DragonTribes/Dragons/Кол or С",
-    "DragonTribes/Dragons",
     "Imaga/Pasted image 20250311212934.png",
     "Imaga/Pasted image 20250311212916.png",
     "Imaga/Pasted image 20250311212902.png",
     "Imaga/Pasted image 20250311212839.png",
     "Imaga/Pasted image 20250311212806.png",
-    "Imaga/Pasted image 20250311212731.png",
-    "Imaga/Pasted image 20250311212728.png"
+    "Imaga/Pasted image 20250311212731.png"
   ]
 }

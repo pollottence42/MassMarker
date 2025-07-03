@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "SlowSort",
   "attachmentFolderPath": "Imaga",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": false
 }
