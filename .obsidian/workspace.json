@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Шаблоны/Персонаж Игрока.md",
+                "file": "Dno/Проверка.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Персонаж Игрока"
+              "title": "Проверка"
             }
           }
         ]
@@ -87,7 +87,6 @@
       {
         "id": "05cf560246525c2b",
         "type": "tabs",
-        "dimension": 58.92857142857143,
         "children": [
           {
             "id": "b2f427a15ce0d2c5",
@@ -148,33 +147,32 @@
             }
           },
           {
-            "id": "a20843f274542918",
+            "id": "7a0536204ef78a05",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_b8f9cb7ac9db",
+                "calendar": "ID_fb5b8bab3b1b",
                 "ephemeral": {
                   "viewing": {
-                    "day": 14,
-                    "month": 1,
-                    "year": 5461
+                    "day": 29,
+                    "month": 6,
+                    "year": 4100
                   },
-                  "viewState": 1,
+                  "viewState": 2,
                   "displaying": {
-                    "day": 1,
-                    "month": 1,
-                    "year": 5461
+                    "day": 28,
+                    "month": 6,
+                    "year": 4100
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
                   "displayMoons": true,
-                  "displayWeather": true,
-                  "location": "ID_b93928f8bb29"
+                  "displayWeather": true
                 },
-                "id": "ID_7b1afa0859a9",
-                "child": "ID_49a87bdbb91a"
+                "id": "ID_7ae9eb1868aa",
+                "child": "ID_aa29cb68faf8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -186,7 +184,6 @@
       {
         "id": "641b842b7cf49b1e",
         "type": "tabs",
-        "dimension": 41.07142857142857,
         "children": [
           {
             "id": "23484558ac36c1ae",
@@ -194,9 +191,29 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_b8f9cb7ac9db",
+                "calendar": "ID_fb5b8bab3b1b",
                 "id": "ID_49a87bdbb91a",
                 "parent": "ID_7b1afa0859a9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7eeaa6068bb21b8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc20ca398165c51",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_fb5b8bab3b1b",
+                "id": "ID_aa29cb68faf8",
+                "parent": "ID_7ae9eb1868aa"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -220,16 +237,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "remotely-save:Remotely Save": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
-      "calendarium:Open Calendarium": true
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "a20843f274542918",
+  "active": "7a0536204ef78a05",
   "lastOpenFiles": [
+    "Dno/Сумки.md",
+    "Dno/Проверка.md",
+    "Dno/Заклинания.md",
+    "_Шаблоны/Игра.md",
+    "_Шаблоны/Персонаж Игрока.md",
     "_Шаблоны/ПМ.md",
     "_Шаблоны/Cайт.md",
-    "_Шаблоны/Персонаж Игрока.md",
     "_Шаблоны/Идея.md",
-    "_Шаблоны/Игра.md",
     "_Шаблоны/Карта.md",
     "Карты/Лотта целиком (физическая карта).md",
     "Dno/Музыка.md",
@@ -241,12 +261,10 @@
     "Dno/Бестиарий.md",
     "Карты",
     "Клан Абюзус/Абюзус.md",
-    "Dno/Заклинания.md",
     "Без названия.md",
     "Клан Абюзус/Гоблины на пауках.md",
     "Dno/Точка зрения.md",
     "Dno/Крестики нолики.md",
-    "Dno/Сумки.md",
     "Три кольца/Мурдос.md",
     "Три кольца/Кольцо камня.md",
     "Три кольца/Карабелла.md",

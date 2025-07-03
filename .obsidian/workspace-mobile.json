@@ -1,0 +1,408 @@
+{
+  "main": {
+    "id": "ad83c56425e6dbde",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa15fd4e5838688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb80b2b5ce9a0530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Py/Операторы.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Операторы"
+            }
+          },
+          {
+            "id": "89602cec8a870ca4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "d18b3c88be8a838d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Шаблоны/Игра.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Игра"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26e8555af5a469ec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8b9ccae3c9b9d29c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "7d58653e6dba0e62",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "0dacdaad155dc983",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "c25d57bbb907b57b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "00eb4de54b78a9aa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "671e5a485a832f0a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Jdroid/Base.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "4e3f69ce2e70f040",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "9f0643a740ef3803",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "70ea327802efae30",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_fb5b8bab3b1b",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 28,
+                "month": 6,
+                "year": 4100
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true
+            },
+            "id": "ID_9b4b09a94bb9"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "62ce72356be4b28f",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_fb5b8bab3b1b",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 28,
+                "month": 6,
+                "year": 4100
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true
+            },
+            "id": "ID_399ae93a4ad8"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "5c86e217ed8133d2",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_fb5b8bab3b1b",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 28,
+                "month": 6,
+                "year": 4100
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true
+            },
+            "id": "ID_8989db8a1858"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "2f4447dad23dc68a",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_fb5b8bab3b1b",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 28,
+                "month": 6,
+                "year": 4100
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true
+            },
+            "id": "ID_fbea489be9e9"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "c3104e53894837d9",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_fb5b8bab3b1b",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 28,
+                "month": 6,
+                "year": 4100
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true
+            },
+            "id": "ID_296b2b987bfb"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "0e7cff5a25839b42",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_fb5b8bab3b1b",
+            "ephemeral": {
+              "viewing": {
+                "day": 28,
+                "month": 6,
+                "year": 4100
+              },
+              "viewState": 1,
+              "displaying": {
+                "day": 25,
+                "month": 6,
+                "year": 4100
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true
+            },
+            "id": "ID_89699a78f939",
+            "child": "ID_f97a38ea385b"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "82dcee202a953063",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM_AGENDA",
+          "state": {
+            "calendar": "ID_fb5b8bab3b1b",
+            "id": "ID_f97a38ea385b",
+            "parent": "ID_89699a78f939"
+          },
+          "icon": "CALENDARIUM_AGENDA",
+          "title": "Agenda"
+        }
+      }
+    ],
+    "currentTab": 8
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "0e7cff5a25839b42",
+  "lastOpenFiles": [
+    "Клан Абюзус/Абюзус.md",
+    "Py/args.md",
+    "_Шаблоны/Игра.md",
+    "Карты/Лотта целиком (физическая карта).md",
+    "Dno/Музыка.md",
+    "Клан Абюзус/Мойраститэ.md",
+    "Dno/Бестиарий.md",
+    "_Шаблоны/Карта.md",
+    "Py/Длинный текст.md",
+    "Excalidraw/Drawing 2025-07-03 19.09.55.excalidraw.md",
+    "Imaga/Lotta_gex.png",
+    "Карты",
+    "Excalidraw",
+    "Dno/Заклинания.md",
+    "Jdroid/Base.md",
+    "Dno/Сумки.md",
+    "_Шаблоны/Cайт.md",
+    "Dno/Крестики нолики.md",
+    "Dno/Точка зрения.md",
+    "Dno",
+    "_Шаблоны/Персонаж Игрока.md",
+    "Без названия.md",
+    "_Шаблоны/Идея.md",
+    "_Шаблоны/ПМ.md",
+    "_Шаблоны",
+    "Мойраститэ.md",
+    "Ваншоты/Сумки.md",
+    "Imaga/АБЮЗУС.png",
+    "TagToGag/camp.md",
+    "TagToGag/shabl.md",
+    "Морское/Пираты.md",
+    "Морское/Принцы.md",
+    "Ваншоты",
+    "Морское",
+    "Три кольца",
+    "Клан Абюзус",
+    "Imaga/Pasted image 20250227010541.png",
+    "Jdroid",
+    "Imaga/Pasted image 20250314154449.png",
+    "DragonTribes/Dragons/Кол or С",
+    "Imaga/Pasted image 20250311212633.png",
+    "Imaga/Pasted image 20250311212839.png",
+    "Imaga/Pasted image 20250311212902.png",
+    "Imaga/Pasted image 20250311212806.png",
+    "Imaga/Pasted image 20250311212916.png",
+    "Imaga/Pasted image 20250311212934.png"
+  ]
+}
