@@ -1,0 +1,18 @@
+:root {
+    --font-interface: "Century Gothic", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Для всех элементов интерфейса */
+body {
+    font-family: var(--font-interface) !important;
+}
+
+/* Для заголовков вкладок */
+.workspace-tab-header-inner-title {
+    font-family: var(--font-interface) !important;
+}
+
+/* Для боковой панели */
+.nav-files-container {
+    font-family: var(--font-interface) !important;
+}

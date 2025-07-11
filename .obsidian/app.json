@@ -2,7 +2,9 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "SlowSort",
-  "attachmentFolderPath": "Imaga",
+  "attachmentFolderPath": "Imaga/Несортированное",
   "alwaysUpdateLinks": true,
-  "livePreview": false
+  "livePreview": true,
+  "mobilePullAction": "insert-template",
+  "defaultViewMode": "source"
 }

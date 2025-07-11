@@ -2,6 +2,7 @@
   "triggerChar": "\\",
   "sidePaneSideLeft": false,
   "savedColors": [
+    "#ff8800",
     "#ff0000"
   ],
   "aviabileRegions": [
@@ -22,7 +23,7 @@
     {
       "name": "tables",
       "active": false,
-      "visible": true
+      "visible": false
     },
     {
       "name": "html",
@@ -42,12 +43,12 @@
     {
       "name": "colors",
       "active": false,
-      "visible": false
+      "visible": true
     },
     {
       "name": "callouts",
-      "active": false,
-      "visible": false
+      "active": true,
+      "visible": true
     }
   ]
 }

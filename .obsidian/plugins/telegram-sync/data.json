@@ -1,0 +1,76 @@
+{
+  "botToken": "deaa9666e868414f93003f04a6366b566aecf87b1208b570674d8e6ba0db374f77bbc89bf6a6f97a9bab2d98749aad7b",
+  "encryptionByPinCode": false,
+  "botTokenEncrypted": true,
+  "deleteMessagesFromTelegram": false,
+  "allowedChats": [
+    "785070487"
+  ],
+  "mainDeviceId": "",
+  "pluginVersion": "4.0.0",
+  "telegramSessionType": "bot",
+  "telegramSessionId": 20250706161615040,
+  "betaVersion": "",
+  "connectionStatusIndicatorType": "CONSTANT",
+  "cacheCleanupAtStartup": false,
+  "messageDistributionRules": [
+    {
+      "messageFilterQuery": "{{content~ИДЕЯ}}",
+      "messageFilterConditions": [
+        {
+          "conditionType": "content",
+          "operation": "~",
+          "value": "ИДЕЯ"
+        }
+      ],
+      "templateFilePath": "_Шаблоны/Идея.md",
+      "notePathTemplate": "Dno/{{content:[1]}}.md",
+      "filePathTemplate": "Imaga/Несортированное/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "reversedOrder": false,
+      "heading": ""
+    },
+    {
+      "messageFilterQuery": "{{content~СПИСОК}}",
+      "messageFilterConditions": [
+        {
+          "conditionType": "content",
+          "operation": "~",
+          "value": "СПИСОК"
+        }
+      ],
+      "templateFilePath": "_Шаблоны/Пункт списка.md",
+      "notePathTemplate": "Для списка/{{content:[2]}}.md",
+      "filePathTemplate": "Imaga/Несортированное/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "reversedOrder": false,
+      "heading": ""
+    },
+    {
+      "messageFilterQuery": "{{all}}",
+      "messageFilterConditions": [
+        {
+          "conditionType": "all",
+          "operation": "",
+          "value": ""
+        }
+      ],
+      "templateFilePath": "_Шаблоны/Телега.md",
+      "notePathTemplate": "_Инструкция/Бричка.md",
+      "filePathTemplate": "Imaga/Несортированное/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "reversedOrder": false,
+      "heading": ""
+    }
+  ],
+  "defaultMessageDelimiter": true,
+  "parallelMessageProcessing": false,
+  "processOldMessages": false,
+  "processOldMessagesSettings": {
+    "lastProcessingDate": 1752250647,
+    "daysLimit": 14,
+    "dialogsLimit": 100,
+    "messagesLimit": 1000,
+    "chatsForSearch": []
+  },
+  "processOtherBotsMessages": false,
+  "retryFailedMessagesProcessing": false,
+  "topicNames": []
+}
