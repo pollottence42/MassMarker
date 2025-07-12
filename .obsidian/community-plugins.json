@@ -12,5 +12,7 @@
   "obsidian-style-settings",
   "rainbow-colored-sidebar",
   "shortcuts-extender",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "dataview",
+  "templater-obsidian"
 ]
