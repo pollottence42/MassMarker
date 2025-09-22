@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "SlowSort",
+  "newFileFolderPath": "_SlowSort",
   "attachmentFolderPath": "Imaga/Несортированное",
   "alwaysUpdateLinks": true,
   "livePreview": true,

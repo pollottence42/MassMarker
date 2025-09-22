@@ -836,8 +836,7 @@
               "displayWeather": true,
               "location": "NONE"
             },
-            "id": "ID_9aa8787a2909",
-            "child": "ID_4a189ab82be9"
+            "id": "ID_9aa8787a2909"
           },
           "icon": "CALENDARIUM",
           "title": "Calendarium"
@@ -856,14 +855,121 @@
           "icon": "CALENDARIUM_AGENDA",
           "title": "Agenda"
         }
+      },
+      {
+        "id": "70cbfff9f90a1950",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_1838780bd92a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 9,
+                "year": 4044
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "NONE"
+            },
+            "id": "ID_a9d9f9fab9fa"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "fc9b32e838235d8e",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_1838780bd92a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 8,
+                "year": 4044
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "NONE"
+            },
+            "id": "ID_f9dbc91a28ba"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "422678fbac9c4167",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_1838780bd92a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 9,
+                "year": 4044
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "NONE"
+            },
+            "id": "ID_996889fa8bbb"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "d1082667de97c96d",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_1838780bd92a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 9,
+                "year": 4044
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "NONE"
+            },
+            "id": "ID_fa3be818381a"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
       }
     ],
-    "currentTab": 30
+    "currentTab": 35
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "remotely-save:Remotely Save": false,
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -871,36 +977,43 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "46cbde55368910c2",
   "lastOpenFiles": [
-    "Для списка/Кольцо.md",
-    "_Инструкция/Прогресс.md",
-    "Для списка/15 июля ЭЭГ.md",
-    "Для списка/15 июля Психолог.md",
-    "Для списка/Полынь реальность.md",
-    "Для списка/19 июля Встреча Фиит.md",
-    "Для списка/17 июля Первое занятие.md",
-    "Для списка/Подобрать Дорогу в Огонь.md",
-    "Для списка/24 июля день рождения Тимохи.md",
     "_Инструкция/Бричка.md",
-    "_Инструкция/Список.md",
     "_Инструкция/_Основа основ.md",
+    "Для списка/Английский .md",
+    "Для списка/Вета в гости.md",
+    "Для списка/Турлом лингвистика с Веточкой .md",
+    "DragonTribes/Folder/Планы.md",
+    "Клан Абюзус/Первая игра Абюзус.md",
     "_Инструкция/Игры.md",
-    "Сеттинг/Боги/Ульи.md",
-    "Сеттинг/Боги/Зонн.md",
-    "Сеттинг/Боги/Абюзус.md",
-    "Ваншот в воскресенье.md",
-    "_Шаблоны/Пункт списка.md",
-    "Для списка/Старый список.md",
+    "_Инструкция/Клан Абюзус.md",
+    "Карты/Лотта целиком (физическая карта).md",
+    "Сеттинг/Кланы Мойраститэ.md",
+    "Для списка/Староселье.md",
+    "Для списка/Контрольная.md",
+    "Для списка/Голодные игры.md",
+    "Для списка/Храброе сердце.md",
+    "Для списка/Купить ремень.....md",
+    "Для списка/Открытый микрофон .md",
+    "Для списка/Горбун из Нотр Дама.md",
+    "Для списка/Выживут только любовники.md",
+    "Для списка/Нарисовать поле боя.md",
+    "Для списка/Застелить постель.md",
+    "Для списка/Записать Веточку в сфр на пятницу .md",
+    "Для списка/Штуки для свидания.md",
+    "Для списка/Записаться к терапевту .md",
+    "Для списка/Попросить тату у Тимохи.md",
+    "Для списка/Приклеить тату в тетрадь.md",
     "Imaga/Несортированное/Син.jpg",
     "Imaga/Несортированное/Сверг Лист.pdf",
     "Imaga/Несортированное/Фейн.jpg",
     "Imaga/Несортированное/Элла.jpg",
-    "Для списка/15 июля счётчики.md",
     "Imaga/Несортированное/Эллер.jpg",
     "Imaga/Несортированное/Мурдос.jpg",
     "Imaga/Несортированное/Каллиста.jpg",
@@ -908,14 +1021,8 @@
     "Imaga/Несортированное/Сидор Лист.pdf",
     "Imaga/Несортированное/Карабелла.jpg",
     "Imaga/Несортированное/Габриэлла.jpg",
-    "Для списка/13 июля ВАНШОТ БЛИН ПРИДУМАТЬ.md",
     "Сеттинг/Боги",
     "Для списка",
-    "Три кольца/Персонажи/Мурдос.md",
-    "_Инструкция/Персонажи Три Кольца.md",
-    "_Инструкция/Три Кольца.md",
-    "_Шаблоны/Телега.md",
-    "Dno/ИДЕИ Веточкины.md",
     "Imaga/Несортированное/Кенку монах - 20250707182824530.pdf",
     "Imaga/Несортированное/Рыжий Апп Фото.jpg",
     "Imaga/Несортированное/Сидор — LSS - 20250707161121186.pdf",

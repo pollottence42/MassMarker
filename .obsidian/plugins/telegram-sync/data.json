@@ -24,7 +24,7 @@
         }
       ],
       "templateFilePath": "_Шаблоны/Идея.md",
-      "notePathTemplate": "Dno/{{content:[1]}}.md",
+      "notePathTemplate": "Dno/{{content:20}}.md",
       "filePathTemplate": "Imaga/Несортированное/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
       "reversedOrder": false,
       "heading": ""
@@ -64,7 +64,7 @@
   "parallelMessageProcessing": false,
   "processOldMessages": false,
   "processOldMessagesSettings": {
-    "lastProcessingDate": 1752355799,
+    "lastProcessingDate": 1758564262,
     "daysLimit": 14,
     "dialogsLimit": 100,
     "messagesLimit": 1000,
